@@ -1,0 +1,68 @@
+/* this class is used for bottom image indicator */
+.bottom-image{
+  width:30px;
+  height:30px;
+}
+.profile-img-container{
+  text-align:right; 
+  margin-right:100px;
+}
+.profile-img{
+  width:200px;
+  height:200px;
+}
+.user-name{
+  text-align:center;
+}
+.user-address{
+  text-align:center;
+}
+.user-contact-details{
+  text-align:center;
+}
+/*
+  padding: is used for internal spacing 
+  margin: is used for external spacing
+*/
+.title-heading{
+  background:#deeaf6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  margin-top: 10px;
+}
+.user-aim{
+  text-align:justify;
+  padding-left:10px;
+  padding-right:10px;
+}
+.user-copyright{
+  text-align:center;
+}
+.first{
+  color:blue;
+}
+.second{
+  color:red;
+}
+.go-to-top{
+  text-align:right;
+}
+.go-to-top img{
+  width:30px;
+  height:30px;
+}
+table, td {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+td{
+  padding: 10px;
+}
+tr:hover{
+  background-color:#deeaf6;
+}
